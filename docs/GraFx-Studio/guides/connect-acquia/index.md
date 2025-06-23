@@ -42,7 +42,7 @@ This means if the credentials only allow access to part of the assets, only thes
 ## Place assets in your template
 
 - Select the right Connector
-- Doubleclick the asset to assign to image frame
+- Double-click the asset to assign to image frame
 
 ![ui](acquia_assets.gif)
 
