@@ -14,7 +14,7 @@ These classifications are [listed on our website](https://www.chili-publish.com/
 
 ## Compliance
 
-Our compliance team works hard to meet your organization’s compliance needs. We are proud to annouce we are ISO27001:2017 certified.
+Our compliance team works hard to meet your organization’s compliance needs. We are proud to announce we are ISO27001:2017 certified.
 
 ![Logo](https://www.datocms-assets.com/11099/1643128549-iso-brand-compliance.png?auto=format&dpr=0.62&w=600)
 

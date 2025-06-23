@@ -8,7 +8,7 @@ Click on the **plus** sign or three dots "Add sub-layout"
 
 Rename the layout to "Skyscraper". Since your renamed, it's selected.
 
-Select the properties panel, and change the dimentions to 160 x 600.
+Select the properties panel, and change the dimensions to 160 x 600.
 
 ![Skyscraper](sublayout-2.png)
 

@@ -8,7 +8,7 @@ If you have access to  multiple subscriptions, first select the subscription whe
 
 ![Role Change](changerole-1.png)
 
-If you have acces to only 1 subscription, you will see your subscription only. (without dropdown icon)
+If you have access to only 1 subscription, you will see your subscription only. (without dropdown icon)
 
 ![Role Change](changerole-2.png)
 

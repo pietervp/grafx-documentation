@@ -163,7 +163,7 @@ The picsum.photos API supports both outputting rectangular and square images. We
       },
       {
         name: "wide",
-        displayName: "Display images as rectangluar instead of square",
+        displayName: "Display images as rectangular instead of square",
         type: "boolean"
       }
     ];

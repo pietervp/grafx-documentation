@@ -21,7 +21,7 @@ Now we can install the two packages we need.
 ##### Parcel
 Parcel is a JavaScript bundler that also includes a local development web server. This is great for our use case because it will take all the JavaScript we create in our integration _and_ the JavaScript we use from the GraFx Editor-SDK package and bundle them together for our integration to use.
 
-We can also run our integration on a local web server and see the changes to our website everytime we save our code due to a feature called "hot-reloading".
+We can also run our integration on a local web server and see the changes to our website every time we save our code due to a feature called "hot-reloading".
 
 To install Parcel all we need to do is type this command
 ```sh
@@ -97,7 +97,7 @@ The body of our `index.html` file will now look like this
 </body>
 ```
 
-_Note: We must state that `type="module"` because we will be using the JavaScript module syntax which is a way to break up JavaScript code into small re-usable pieces and import them in to other "modules" for use. In particular You can find our more at the Mozzila documentation page on [JavaScript Modules](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules)_
+_Note: We must state that `type="module"` because we will be using the JavaScript module syntax which is a way to break up JavaScript code into small reusable pieces and import them in to other "modules" for use. In particular You can find our more at the Mozzila documentation page on [JavaScript Modules](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules)_
 
 If your server is still running from the previous lesson you can simply navigate to
 ``` html
